@@ -67,3 +67,5 @@ XVideoThread::~XVideoThread()
 	isexit = true;
 	mutex.unlock();
 }
+
+
