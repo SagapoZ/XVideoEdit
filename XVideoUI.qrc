@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/XVideoUI"/>
+    <qresource prefix="/">
+        <file>Resources/close.png</file>
+        <file>Resources/close_hover.png</file>
+        <file>Resources/max.png</file>
+        <file>Resources/max_hover.png</file>
+        <file>Resources/min.png</file>
+        <file>Resources/min_hover.png</file>
+    </qresource>
+</RCC>
