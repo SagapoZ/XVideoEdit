@@ -42,6 +42,12 @@
     <ClCompile Include="XVideoThread.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="XImagePro.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="XFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="XVideoUI.h">
@@ -66,5 +72,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="XImagePro.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="XFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -14,6 +14,7 @@ XVideoWidget::~XVideoWidget()
 {
 }
 
+//ÏÔÊ¾ÊÓÆµ
 void XVideoWidget::SetImage(Mat mat)
 {
 	if (this->img.isNull())
